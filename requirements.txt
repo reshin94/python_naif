@@ -7,8 +7,8 @@ sqlalchemy
 schedule
 psycopg2-binary
 h11==0.16.0
-pandas==1.5.3
-numpy==1.23.5
+pandas
+numpy
 datetime
 joblib
 scikit-learn==1.2.2
