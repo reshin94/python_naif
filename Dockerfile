@@ -15,6 +15,7 @@ COPY requirements.txt .
 
 # Install required Python packages
 RUN pip install --upgrade pip && \
+    pip install --force-reinstall setuptools && \
     pip install -r requirements.txt
 
 CMD ["python"]
