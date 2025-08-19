@@ -8,7 +8,7 @@ schedule
 psycopg2-binary
 h11==0.16.0
 pandas
-numpy
+numpy==2.0.1
 datetime
 joblib
 scikit-learn==1.2.2
