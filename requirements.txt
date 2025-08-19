@@ -2,13 +2,14 @@ JayDeBeApi
 fastapi
 python-dotenv 
 uvicorn 
-pandas 
+pandas==1.5.3
 sqlalchemy 
 schedule
 psycopg2-binary
 h11==0.16.0
 pandas
-numpy==2.0.1
+numpy==1.23.5
 datetime
 joblib
 scikit-learn==1.2.2
+openpyxl==3.0.10
